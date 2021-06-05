@@ -7,4 +7,4 @@
 [Patreon](https://www.patreon.com/YAKOTTec/)|
 [Paypal](https://paypal.me/YAKOTTec/)
 
-YAKOTT is an I+D+i STARTUP that focuses on design, prototyping, and advising in emergency communication systems. Further, it is aimed at training students and professionals in telecommunication related topics, contributing to the ICT advance and inclusion.
+YAKOTT is an I+D+i STARTUP that focuses on design, prototyping, and advising in emergency communication systems. It is aimed at training students and professionals in telecommunication related topics, contributing to the ICT advance and inclusion. Furthermore, it provides Open-Source Software on GitHub.
