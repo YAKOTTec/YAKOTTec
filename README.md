@@ -1,9 +1,10 @@
 # Hello there 👋.
 
-[Facebook](https://www.facebook.com/yakott.ec/)|
-[Instagram](https://www.instagram.com/yakott.ec/)|
+[Facebook](https://www.facebook.com/YAKOTTec/)|
+[Instagram](https://www.instagram.com/YAKOTTec/)|
 [Youtube](https://www.youtube.com/channel/UCX0OJIAD9p3eljanX0_gtTA/)|
-[LinkedIn](https://www.linkedin.com/company/yakott/)|
+[Amazon eBooks](https://www.amazon.com/YAKOTTec/e/B08NZ1J1PJ/)
+[LinkedIn](https://www.linkedin.com/company/YAKOTTec/)|
 [Patreon](https://www.patreon.com/YAKOTTec/)|
 [Paypal](https://paypal.me/YAKOTTec/)
 
