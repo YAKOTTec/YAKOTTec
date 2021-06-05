@@ -1,12 +1,12 @@
 # Hello there 👋.
 
 |
-[Facebook](https://www.facebook.com/YAKOTTec/)|
-[Instagram](https://www.instagram.com/YAKOTTec/)|
-[Youtube](https://www.youtube.com/channel/UCX0OJIAD9p3eljanX0_gtTA/)|
-[Amazon eBooks](https://www.amazon.com/YAKOTTec/e/B08NZ1J1PJ/)|
-[LinkedIn](https://www.linkedin.com/company/YAKOTTec/)|
-[Patreon](https://www.patreon.com/YAKOTTec/)|
+[Facebook](https://www.facebook.com/YAKOTTec/) |
+[Instagram](https://www.instagram.com/YAKOTTec/) |
+[Youtube](https://www.youtube.com/channel/UCX0OJIAD9p3eljanX0_gtTA/) |
+[Amazon eBooks](https://www.amazon.com/YAKOTTec/e/B08NZ1J1PJ/) |
+[LinkedIn](https://www.linkedin.com/company/YAKOTTec/) |
+[Patreon](https://www.patreon.com/YAKOTTec/) |
 [Paypal](https://paypal.me/YAKOTTec/)
 |
 
