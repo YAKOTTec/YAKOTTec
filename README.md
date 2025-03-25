@@ -2,7 +2,7 @@
 
 |
 [Amazon eBooks](https://www.amazon.com/YAKOTTec/e/B08NZ1J1PJ/) |
-[Youtube](https://www.youtube.com/channel/UCX0OJIAD9p3eljanX0_gtTA/) |
+[Youtube](https://www.youtube.com/@YAKOTTec) |
 [Facebook](https://www.facebook.com/YAKOTTec/) |
 [Instagram](https://www.instagram.com/YAKOTTec/) |
 [LinkedIn](https://www.linkedin.com/company/YAKOTTec/) |
